@@ -1,6 +1,7 @@
 # news_app_mvvm
 
-A new Flutter project.
+News App is a Flutter project.
+I'm using Provider state management and MVVM architecture.
 
 ## Getting Started
 
