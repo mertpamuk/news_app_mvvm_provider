@@ -1,7 +1,7 @@
 # news_app_mvvm
 
-News App
-Global news app was developed in Flutter.
+### News App
+#### Global news app was developed in Flutter.
 In this project was used MVVM architecture , Dio package for network operations and Provider for state management.
 
 ![1](https://user-images.githubusercontent.com/63741374/212677873-7dff6b02-e240-4052-8fe7-bcca900e6484.JPG)
